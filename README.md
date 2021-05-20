@@ -1,4 +1,3 @@
 # 🚣🏽‍♂️
 # @JulioKayak
----
-[![monkee](https://www.youtube.com/vi/watch?v=s2IcyJshUHM&t=22s/0.jpg)](https://www.youtube.com/watch?v=s2IcyJshUHM&t=22s)
+[![monkee](https://i.pinimg.com/originals/57/88/04/578804c1544fc2f676be7d2719557feb.gif)](https://www.youtube.com/watch?v=s2IcyJshUHM)
