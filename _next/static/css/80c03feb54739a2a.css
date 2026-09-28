@@ -1,1 +1,0 @@
-.SetupPage{display:flex;flex-direction:column;align-items:center;gap:1.5rem;padding:1.5rem;.title{font-size:2.25rem}.diagram{width:100%;max-width:40rem;height:auto}@media (prefers-color-scheme:dark){.diagram{filter:invert(1) hue-rotate(180deg)}}@media (min-width:768px){padding-left:3rem;padding-bottom:3rem;padding-right:3rem;padding-top:3rem;.title{font-size:3.5rem}}}
